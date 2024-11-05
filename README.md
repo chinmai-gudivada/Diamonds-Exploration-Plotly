@@ -12,9 +12,7 @@ Provide insights that could be useful for understanding pricing patterns in the 
 Tools and Libraries:
 
 Python: Data analysis and manipulation
-
 Plotly: Interactive data visualization
-
 Pandas: Data handling and processing
 
 
@@ -22,11 +20,15 @@ Key Insights:
 
 Carat vs. Price: Visualizations show a clear positive correlation, indicating that larger diamonds generally have higher prices.
 Cut, Color, and Clarity Impact: Through visual exploration, we observe how the quality of cut, color, and clarity can influence pricing.
+ 
 Trends and Patterns: Interactive graphs reveal patterns that may not be evident in static visualizations, making it easier to spot price trends.
 
 Repository Contents:
 
 notebooks/: Jupyter Notebook with data analysis and visualizations
+
 data/: The diamonds dataset (source: Kaggle)
+
 images/: Sample images of the visualizations generated
+
 README.md: Project overview and usage guide
