@@ -12,8 +12,11 @@ Provide insights that could be useful for understanding pricing patterns in the 
 Tools and Libraries:
 
 Python: Data analysis and manipulation
+
 Plotly: Interactive data visualization
+
 Pandas: Data handling and processing
+
 
 Key Insights:
 
